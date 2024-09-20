@@ -1,4 +1,4 @@
-# Hi Mate, my name RafifHudaAditya
+# Hi Mate, iam RafifHudaAditya
 # 💫 About Me:
 🔭 I’m currently working on Home<br>👯 I’m looking to collaborate on project<br>🤝 I’m looking for help with<br>🌱 I’m currently learning ReactJs<br>💬 Ask me about life
 
