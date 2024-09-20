@@ -3,7 +3,7 @@
 🔭 I’m currently working on Home<br>👯 I’m looking to collaborate on project<br>🤝 I’m looking for help with<br>🌱 I’m currently learning ReactJs<br>💬 Ask me about life
 
 
-## 🌐 Socials:
+## 🌐 MySocials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/brohud__________) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hudaAditya) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/eyobrohud) 
 
 # 💻 Tech Stack:
